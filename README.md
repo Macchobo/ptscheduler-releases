@@ -6,8 +6,7 @@ PT 트레이너용 스케줄 비서 앱의 **설치 파일**과 **자동 업데�
 오른쪽 **Releases**에서 가장 최신 버전을 열고, 내 컴퓨터에 맞는 파일을 받아요.
 
 ### Mac
-- Apple 칩(M1·M2·M3…): `PT-Scheduler-버전-arm64.dmg` / Intel 칩: `PT-Scheduler-버전.dmg`
-- 모르면:  → 이 Mac에 관하여 → "칩"이 Apple이면 arm64
+- `PT-Scheduler-버전-arm64.dmg` (Apple 칩 M1·M2·M3… Mac 전용 — 인텔 Mac은 지원하지 않아요)
 - DMG를 열고 **PT 스케줄러**를 Applications(응용 프로그램) 폴더로 끌어 넣어요.
 
 ### 윈도우
